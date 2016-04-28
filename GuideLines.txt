@@ -1,0 +1,4 @@
+Open avi file
+Break into frames
+Index each frame
+Send each from 
